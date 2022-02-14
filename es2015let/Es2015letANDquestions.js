@@ -23,7 +23,7 @@ Let can be redefined while const cannot.
 If either is defined as an object or array you can update or remove or remove form the array/object,
 however you risk risk losing the arry or object if you use let.
 
-What is hoisting?
+4. What is hoisting?
 It's a how you describe how compiling js works. Variables are brought to the top of the scrope they are in which is "hoisting".
 With var you can access the undefined variable before you declare it later on. Functions are also hoisted and can called before you define them.
 Classes are also hoisted.
