@@ -3,9 +3,10 @@ ES5 Global Constants
 var PI = 3.14;
 PI = 42; // stop me from doing this!
 */
-/* Write an ES2015 Version */
-let PI = 3.14;
-PI=42;
+/* Write an ES2015 Version 
+ES2015 Global Constants*/
+const PI = 3.14;
+PI=42; //ERROR
 
 /*
 1. What is the difference between var and let?
